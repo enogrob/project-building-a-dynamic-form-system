@@ -18,6 +18,7 @@ Program owners design custom entry forms, which participants fill out to submit 
 * [x] Intro
 * [x] Requirements
 * [x] Understanding Requirements
+* [x] Create `carrot` Rails app `ruby-2.7.0@rails-6.0.2.2`
 
 
 Our Behaviours
