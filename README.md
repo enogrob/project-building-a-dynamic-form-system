@@ -3,9 +3,9 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Project Building a Dynamic Form System
+# Research Building a Dynamic Form System
 
-![project image](images/project.png)
+![project image](images/research.png)
 
 **About**
 
